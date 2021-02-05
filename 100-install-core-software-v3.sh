@@ -41,6 +41,9 @@ sudo pacman -S --noconfirm --needed vivaldi
 
 #sudo pacman -S --noconfirm --needed simplescreenrecorder
 
+############################ Rick ##################################
+sudo pacman -S --noconfirm --needed mpv
+
 ###############################################################################################
 
 echo "################################################################"
